@@ -1,0 +1,22 @@
+body {
+    font-family: Courier;
+    text-align: center;
+    margin-top: 50px;
+  }
+  input[type="number"] {
+    padding: 8px;
+    margin: 10px;
+  }
+  button {
+    padding: 10px 20px;
+    background-color: slateblue;
+    color: aqua;
+    border: none;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: slateblue;
+  }
+  #error {
+    color: red;
+  }
